@@ -1,0 +1,475 @@
+html, body {
+    background: rgb(3, 9, 37);
+    scroll-behavior: smooth;    
+}
+.Priv {
+    color: white;
+    position: absolute;
+    top:100px;
+    left:100px;
+}
+#f{
+    position: absolute;
+    top: 13px;
+    width: 170px;
+    height: 200px;
+}
+.vid {
+    position: fixed;
+    margin-left: 0px;
+}
+.color {
+    color: white;
+    position: absolute;
+    top:140px;
+    left:100px;
+}
+.color1 {
+    color: rgb(0, 255, 247);
+    position: absolute;
+    top:140px;
+    left:240px;
+}
+.info {
+    color: rgb(255, 255, 255);
+    position: absolute;
+    top:180px;
+    left:100px;
+    width: 600px;
+}
+.tg {
+    text-decoration: none;
+    color: #ffffff;
+    height: 40px;
+    width: 200px;
+    font-size: 20px;
+    background-size: 100px;
+    background: linear-gradient(to left, #f12711, #f5af19);
+    position: absolute;
+    top: 10px;
+    border-radius: 5px;
+    border: none;
+    font-weight: bolder;
+    left: 1300px;
+    display: block;
+}
+.tg:hover {
+    transform: rotate(2deg);
+}
+#tg1:hover {
+
+transform: rotate(2deg);
+
+}
+.imgvect {
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    background-image: url("Ali.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    top: 100px;
+    left: 1100px;
+    border-color:  white;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 100px;
+}
+#menu {
+    background: transparent;
+    height: 50px;
+    border: transparent;
+    position: absolute;
+    top: 10px;
+    left: 650px;
+
+}
+.none {
+    display: none;
+}
+.palka {
+    position: absolute;
+    background-color: white;
+    width: 1523px;
+    height: 1px;
+    top: 500px;
+    left: -5px;
+}   
+.shapka{
+    display: flex;
+    align-items: center;
+    height: 20px;
+    list-style-type: none;
+    position: absolute;
+    left: 700px;
+    color: #ffffff;
+    font-size: 20px;
+}
+.menu21 a {
+    color: #ffffff;
+    text-decoration: none;
+    position: absolute;
+   font-size: 20px;
+    top: 23px;
+}
+.menu0 {
+    position: absolute;
+    left: 850px;
+}
+.menu1 {
+    position: absolute;
+    left: 1000px;
+    font-weight: inherit;
+}
+.menu3 {
+
+        position: absolute;
+        left: 1150px;
+        width: auto;
+
+}
+#f:hover {
+    transition: all 200ms ease-in-out;
+    color:coral;
+}
+#g:hover {
+    transition: all 200ms ease-in-out;
+    color:coral;
+}
+#h:hover {
+    transition: all 200ms ease-in-out;
+    color:coral;
+}
+.menu0:hover {
+    transition: all 200ms ease-in-out;
+    color:coral;
+    transform: scale(1.099999);
+}
+.menu1:hover {
+    transition: all 200ms ease-in-out;
+    color:coral;
+    transform: scale(1.099999);}
+.menu2:hover {
+    transition: all 200ms ease-in-out;
+    color:coral;
+    transform: scale(1.099999);
+
+}
+.text {
+    color: rgb(255, 255, 255);
+    position: absolute;
+    top: 50px;
+    width: 320px;
+}
+.menu3:hover {
+    transition: all 200ms ease-in-out;
+    color:coral;
+    transform: scale(1.099999);
+
+}
+.logo {
+    position: absolute;
+    top: -80px;
+}
+
+.IT {
+    color: #ff014c;
+    font-size: 30px;
+    position: absolute;
+    top: -19px;
+    left: 60px;
+}
+.textAli {
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    position: absolute;
+    top: -19px; 
+}
+
+body {
+font-family: 'Roboto', Arial, sans-serif;
+}
+
+.about {
+    color:rgb(255, 255, 255);
+    position: absolute;
+    top: 100px;
+}
+.nam1 {
+    font-weight: bold;
+}
+.p {
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+    position: absolute;
+    top: 100px;
+    font-weight: lighter;
+    left: 150px;
+}
+.carta {
+    width: 400px;
+    height: 400px;
+    background: #17113b;
+    position: absolute;
+    top: 600px;
+    left: 270px;
+    border-radius: 5px;
+    
+    }
+
+.carta0 {
+    width: 400px;
+    height: 400px;
+    background: #17113b;
+    border-radius: 5px;
+    position: absolute;
+    top: 600px;
+    left: 800px;
+}
+.carta1 {
+    width: 400px;
+    height: 440px;
+    background: #17113b;
+    border-radius: 5px;
+    position: absolute;
+    top: 750px;
+    left: 1090px;
+}
+.img {
+    position: absolute;
+    width: 400px;
+    height: 200px;
+    background-image: url("d.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 5px;
+}
+.menu21 {
+    background-color: #17113b;
+    width: 1520px;
+    height: 60px;
+    position: absolute;
+    left: -2px;
+    top: -3px;
+}
+.texttg {
+    color: white;
+    font-size:16px;
+    position: absolute;
+    top: 200px;
+    left:10px;
+}
+.vid {
+    display: none;
+}
+.img1 {
+    position: absolute;
+    width: 400px;
+    height: 200px;
+    background-image: url("f.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 5px;
+}
+.textsait {
+    color: white;
+    font-size:16px;
+    position: absolute;
+    top: 200px;
+    left:10px;
+}
+#menu111 {
+    background-color: #17113b;
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    top: 70px;
+    left: 500px;
+    border-radius: 5px;
+}
+.menu111 {
+    display: none;
+}
+#f {
+    position: relative;
+    
+    left: 570px;
+    top: 80px;
+}
+#g {
+    position: absolute;
+    
+    top: 120px;
+    left:565px;
+    
+}
+#h {
+    
+    top:160px;
+    left: 550px;
+
+}
+.hs {
+    display: none;
+}
+.gs {
+    display: none;
+}
+.psss {
+   display: none;
+}
+.pssr {
+    display: none;
+
+}
+.ddd {
+  display: block;
+}
+.psss:hover {
+    transition: all 200ms ease-in-out;
+    color:coral;
+    transform: scale(1.099999);
+}
+#tg1 {
+    
+        text-decoration: none;
+        color: #ffffff;
+        height: 40px;
+        width: 200px;
+        font-size: 20px;
+        background-size: 100px;
+        background: linear-gradient(to left, #f12711, #f5af19);
+        position: absolute;
+        top: 160px;
+        border-radius: 5px;
+        border: none;
+        font-weight: bolder;
+        left: 0px;
+        
+}
+.tg1 {
+    display: none;
+}
+@media (max-width: 1078px) {
+    .carta0 {
+        position: absolute;
+        top: 670px;
+        left: 270px;
+    }
+    .menu0 {
+        position: absolute;
+        right: 700px;
+    }
+    .menu1 {
+        position: absolute;
+        right: 550px;
+    }
+    .menu2 {
+        position: absolute;
+        right: 300px;
+    }
+    .menu3 {
+        position: absolute;
+        right: 100px;
+    }
+    .menu21 {
+        width: 715px;
+    }
+
+
+}
+@media (max-width: 720px) {
+    .carta {
+        position: absolute;
+        left: 140px;
+        top: 600px;
+    }
+    .carta0 {
+        position: absolute;
+        top: 1050px;
+        left: 140px;
+    }
+    .menu0 {
+        left: 100px;
+        top: 100px;
+        
+    }
+    #f {
+        width: 100px;
+        height: 20px;
+    }
+    .d {
+        position: absolute;
+        top: 100px
+    }
+    .menu1 {
+        left: 200px;
+    }
+
+    #menu {
+        display: block;
+    }
+    .none {
+        display: block;
+    }
+    .menu3 {
+        left: 300px;
+        width: 115.21px;
+    }
+    .shapka li a {
+        padding: 0px 0px;
+    }
+    .p {
+        position: absolute;
+        left: 80px;
+    }
+    .menu21 {
+        width: 705px;
+    }
+    .tg {
+        display: none;
+    }
+    #menu0 {
+        display: none;
+    }
+    #menu1 {
+        display: none;
+    }
+    #menu2 {
+        display: none;
+    }
+
+   .imgvect {
+    position: absolute;
+    
+   }
+   .info {
+    position: absolute;
+    top: 400px;
+   }
+   .home {
+   position: absolute;
+   size: 1000px;
+   }
+   .color {
+    position: absolute;
+    top: 350px;
+   }
+   .color1 {
+    position: absolute;
+    top: 350px;
+   }
+   .Priv {
+    position: absolute;
+    top: 300px;
+   }
+   .palka {
+    position: absolute;
+    top: 550px;
+    width: 705px;
+   }
+   .imgvect {
+    left: 60px;
+
+   }
+}
